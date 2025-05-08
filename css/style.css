@@ -1,8 +1,11 @@
 .bg{
     background-image:url( /img/courtjesterentrance.webp);
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
+    min-height: 100vh;
 }
 .mt{
     margin-top: 250px;
 }
+
+.btn-light{margin-bottom: 200px;}
