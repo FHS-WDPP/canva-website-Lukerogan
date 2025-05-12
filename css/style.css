@@ -8,4 +8,17 @@
     margin-top: 250px;
 }
 
-.btn-light{margin-bottom: 200px;}
+/* .btn-light{margin-bottom: 200px;} */
+
+.ndpgimgsize{
+    /* width: 25%;
+    height: 50%; */
+}
+
+.bg2{
+    min-height: 100vh;
+}
+
+.fixed-row {
+    min-height: 100vh;
+}
