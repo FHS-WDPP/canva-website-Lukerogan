@@ -10,9 +10,9 @@
 
 /* .btn-light{margin-bottom: 200px;} */
 
-.ndpgimgsize{
-    /* width: 25%;
-    height: 50%; */
+.pgimgsize{
+    width: 250px;
+    height: 500px;
 }
 
 .bg2{
@@ -21,4 +21,10 @@
 
 .fixed-row {
     min-height: 100vh;
+}
+
+.book{
+    border-color: black;
+    background-color: black;
+    color: white;
 }
