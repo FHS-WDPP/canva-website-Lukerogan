@@ -11,7 +11,7 @@
 /* .btn-light{margin-bottom: 200px;} */
 
 .pgimgsize{
-    width: 250px;
+    width: 425px;
     height: 500px;
 }
 
@@ -27,4 +27,43 @@
     border-color: black;
     background-color: black;
     color: white;
+}
+
+.bg3{ background-image:url( /img/court-jester.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+}
+.row.bg-2 {
+    display: flex;
+    align-items: stretch;
+}
+.container-fluid.bg2,
+.row.bg-2 {
+    min-height: 100vh;
+    height: 100%;
+}
+
+
+.backing{
+    background-color: black;
+color: white;
+}
+
+mt-0{
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+mb-0{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.t{
+border-radius: 10px 10px 0 0;
+}
+
+.b{
+border-radius: 0 0 10px 10px;
 }
